@@ -9,12 +9,12 @@ This was completely rebuilt from the ground up from V1. This template was built 
 This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy integration with your existing AI workflows.
 
 > **📬 Connect & Share!**  
-> For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
+> For questions and updates, feel free to reach out on [**FB (Facebook)**](https://web.facebook.com/AiraMacalood).  
 > If you've built and published your personal site with this template, I'd love to see it! Send me a DM 🚀
 
 ## Preview
 
-To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live preview of the site, [click here](https://airamacalood.github.io/devportfolio/).
 
 ## Built With
 
@@ -46,25 +46,32 @@ Here's what the config data structure looks like for each section:
 
 #### Basic Information
 ```typescript
-name: "Your Name",
-title: "Your Job Title",
-description: "Brief site description",
+name: "Aira Joy M. Macalood",
+title: "4th Year Computer Engineering Student
+",
+description: "macalood.airajoy@marsu.edu.ph
+Bantay, Boac, Marinduque
+November 28, 2004 | 20 Years Old
+",
 accentColor: "#1d4ed8", // Hex color for theme
 ```
 
 #### Social Links (all optional)
 ```typescript
 social: {
-  email: "your-email@example.com",
-  linkedin: "https://linkedin.com/in/yourprofile",
-  twitter: "https://twitter.com/yourprofile", 
-  github: "https://github.com/yourusername",
+  email: "macalood.airajoy@marsu.edu.ph",
+  linkedin: "https://linkedin.com/in/ryx",
+  instagram: "https://instagram.com/@arang_samsam", 
+  github: "https://github.com/ryxxx2004",
 }
 ```
 
 #### About Section
 ```typescript
-aboutMe: "A paragraph describing yourself, your background, interests, and what you're passionate about. This appears in the About section of your portfolio."
+aboutMe: "As a 4th year Computer Engineering student at Marinduque State University, I have developed a strong curiosity for how technology can be applied to improve everyday life. My academic journey has given me opportunities to explore both hardware and software, allowing me to work on projects that involve automation, embedded systems, and applied research. I enjoy turning ideas into working solutions and learning new methods to improve them.
+
+What motivates me most is the challenge of problem-solving. Whether through designing circuits, writing code, or testing systems, I approach tasks with persistence and creativity. I also value collaboration, as working with others helps me gain new perspectives and produce better results. Beyond academics, I continue to explore technology through self-study and side projects, building a mindset that is adaptable and forward-looking.
+"
 ```
 
 #### Skills
@@ -104,13 +111,22 @@ experience: [
 ```typescript
 education: [
   {
-    school: "University Name",
-    degree: "Bachelor of Science in Computer Science",
-    dateRange: "2014 - 2018",
-    achievements: [
-      "Graduated Magna Cum Laude with 3.8 GPA",
-      "Dean's List all semesters",
-      "President of Computer Science Club"
+   { school: "Marinduque State University",
+    degree: "Bachelor of Science in Computer Engineering",
+    dateRange: "2022 - 2026"},
+
+    {Senior High School
+    school: "Marinduque National High School",
+    dateRange: "2020 - 2022"},
+
+    {Junior High School
+    school: "Marinduque National High School",
+    dateRange: "2018 - 2020"},
+
+    {Primary Education
+    school: "Bantay Elementary School",
+    dateRange: "2013 - 2016"},
+    
     ]
   }
 ]
@@ -151,7 +167,7 @@ devportfolio/
 If you'd like to run it locally:
 
 ```
-git clone https://github.com/RyanFitzgerald/devportfolio.git
+git clone https://github.com/AiraMacalood/devportfolio.git
 cd devportfolio
 npm install
 ```
@@ -184,4 +200,4 @@ This project is fully and completely MIT. See LICENSE.md.
 
 ## Questions?
 
-Feel free to reach out on [X (Twitter)](https://x.com/rfitzio) if you have any questions or need help.
+Feel free to reach out on [FB (facebook)](https://web.facebook.com/AiraMacalood) if you have any questions or need help.
