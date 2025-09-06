@@ -79,29 +79,22 @@ What motivates me most is the challenge of problem-solving. Whether through desi
 skills: ["JavaScript", "React", "Node.js", "Python", "AWS", "Docker"]
 ```
 
-#### Projects
+#### Achievements & Certifications
 ```typescript
-projects: [
+achievements & certification: [
   {
-    name: "Project Name",
-    description: "Brief description of what the project does and its impact",
-    link: "https://github.com/yourusername/project",
-    skills: ["React", "Node.js", "AWS"], // Technologies used
+    name: "10 Hours BOHS Training Course for SO1 (April 2025)"
   }
 ]
 ```
 
-#### Experience
+#### Seminars & Trainings
 ```typescript
-experience: [
+seminars & trainings: [
   {
-    company: "Company Name",
-    title: "Your Job Title",
-    dateRange: "Jan 2022 - Present",
+    
     bullets: [
-      "Led development of microservices architecture serving 1M+ users",
-      "Reduced API response times by 40% through optimization",
-      "Mentored team of 5 junior developers",
+      "Toxic Productivity: When Working Hard Becomes Harmful (April, 2025)",           "Fundamentals of Image processing using Open CV and Matlab (2023)",
     ],
   }
 ]
